@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Luis ,and I'm a  Front-End Developer, from Colombia</p>
+<p align="left">My name is Luis ,and I'm a  Full-Stack Developer</p>
 
 ###
 
